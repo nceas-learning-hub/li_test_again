@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html#nceas-expertise",
-    "href": "index.html#nceas-expertise",
+    "objectID": "index.html#nceas-expertise-testing",
+    "href": "index.html#nceas-expertise-testing",
     "title": "About the course",
-    "section": "1 NCEAS Expertise",
-    "text": "1 NCEAS Expertise\nThe National Center for Ecological Analysis and Synthesis (NCEAS), a research affiliate of UCSB, is a leading expert on interdisciplinary data science and works collaboratively to answer the world’s largest and most complex questions. The NCEAS approach leverages existing data and employs a team science philosophy to squeeze out all potential insights and solutions efficiently - this is called synthesis science.\nNCEAS has over 25 years of success with this model among working groups and environmental professionals. Together with the Delta Science Program and the Delta Stewardship Council we are excited to pass along skills, workflows, mindsets learn throughout the years.\n\n\n\n\n\n\nLearning Objectives\n\n\n\n\nEffectively manage data using tidy data practices\nImplement reproducible scientific workflows throughout all aspects of a project\nEstablish best practices and utilize tools like Git & GitHub to optimize your collaboration\nBetter communicate scientific analyses and results using Markdown, GitHub webpages, and R packages like ggplot2 and Shiny\nIncrease your familiarity and confidence with data science tools\n\n\n\n\n1.1 Week’s Schedule",
+    "section": "1 NCEAS Expertise —–testing",
+    "text": "1 NCEAS Expertise —–testing\nThe National Center for Ecological Analysis and Synthesis (NCEAS), a research affiliate of UCSB, is a leading expert on interdisciplinary data science and works collaboratively to answer the world’s largest and most complex questions. The NCEAS approach leverages existing data and employs a team science philosophy to squeeze out all potential insights and solutions efficiently - this is called synthesis science.\nNCEAS has over 25 years of success with this model among working groups and environmental professionals. Together with the Delta Science Program and the Delta Stewardship Council we are excited to pass along skills, workflows, mindsets learn throughout the years.\n\n\n\n\n\n\nLearning Objectives\n\n\n\n\nEffectively manage data using tidy data practices\nImplement reproducible scientific workflows throughout all aspects of a project\nEstablish best practices and utilize tools like Git & GitHub to optimize your collaboration\nBetter communicate scientific analyses and results using Markdown, GitHub webpages, and R packages like ggplot2 and Shiny\nIncrease your familiarity and confidence with data science tools\n\n\n\n\n1.1 Week’s Schedule",
     "crumbs": [
       "About the course"
     ]
